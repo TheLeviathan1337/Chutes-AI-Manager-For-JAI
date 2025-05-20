@@ -13,7 +13,7 @@ class Chimera:
     model_name = "tngtech/DeepSeek-R1T-Chimera"
     max_tokens = 0
     temperature = 0.7
-    start_reasoning_token = ["Okay, ", "Alright"]
+    start_reasoning_token = ["Okay", "Alright"]
     end_reasoning_token ="</think>"
     active = True
 

@@ -88,3 +88,7 @@ Here are some examples below using localhost:
 
 From there? You should be completely okay to just save, refresh your page, and have fun, it should all be working completely! :D
 
+# NOTICE:
+
+Yes I know I'm using github file upload, I swear I don't have skill issues I just CBA to either post this on one of my actual github accounts or to create new RSA credentials for this account, and the project is too small for me to GAF about git, so this is what you "git"! 
+
